@@ -2,3 +2,4 @@ creat  new  Student  file..
 add student information
 name:Jayawardhana P D G P
 student id: IT18194722
+campus:Malabe
